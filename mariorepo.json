@@ -1,0 +1,19 @@
+{
+  "reponame":"Lit Fam Repo",
+  "repologo":"https://www.google.com/search?q=dabbing+emoji&rlz=1C1CHBF_enUS725US726&tbm=isch&source=iu&ictx=1&fir=txErXk09VfOFgM%253A%252CQ0pztUcepNXSNM%252C_&usg=__5e5fTOqKFbMepoMND13FKx6AhwQ%3D&sa=X&ved=0ahUKEwivy83wiK7aAhWHVN8KHUdjACoQ9QEIKzAA#imgrc=yz78lIAbp1UR5M:",
+  "repoauthor":"LIT GOD",
+  "repodesc":"This is so lit so super lit.",
+  "categories":[LIT
+    {
+      "categoryname":"Games",
+      "games":[
+        {
+          "name":"Mario World",
+          "link":"https://www.dropbox.com/s/f74fq96bakx00rc/Mario%20Bros.%20%28World%29.nes?dl=0",
+          "boxart":"Game Boxart",
+          "system":"NES"
+        }
+      ]
+    }
+  ]
+}
